@@ -2,10 +2,10 @@
 
 These are our implementations of the exercises of the Computer Graphics course of the Bachelor in Computer Science and Engineering at Instituto Superior Técnico.
 
-Exercise #1 - chair
-Exercise #2 - colisions
-Exercise #3 - helix
-Exercise #4 - chess
+Exercise #1 - chair\\
+Exercise #2 - colisions\\
+Exercise #3 - helix\\
+Exercise #4 - chess\\
 
 ## To run each exercise:
 Run a local server in each separate file, in order to load materials if necessary.
